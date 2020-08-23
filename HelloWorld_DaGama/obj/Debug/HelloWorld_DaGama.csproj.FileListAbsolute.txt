@@ -1,0 +1,7 @@
+C:\Users\Dagai\Desktop\IGME-201\HelloWorld_DaGama\bin\Debug\HelloWorld_DaGama.exe.config
+C:\Users\Dagai\Desktop\IGME-201\HelloWorld_DaGama\bin\Debug\HelloWorld_DaGama.exe
+C:\Users\Dagai\Desktop\IGME-201\HelloWorld_DaGama\bin\Debug\HelloWorld_DaGama.pdb
+C:\Users\Dagai\Desktop\IGME-201\HelloWorld_DaGama\obj\Debug\HelloWorld_DaGama.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\IGME-201\HelloWorld_DaGama\obj\Debug\HelloWorld_DaGama.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\IGME-201\HelloWorld_DaGama\obj\Debug\HelloWorld_DaGama.exe
+C:\Users\Dagai\Desktop\IGME-201\HelloWorld_DaGama\obj\Debug\HelloWorld_DaGama.pdb
