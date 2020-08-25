@@ -1,0 +1,7 @@
+C:\Users\Dagai\Desktop\IGME-201\SquashTheBugs_PhillipDaGama\bin\Debug\SquashTheBugs_PhillipDaGama.exe.config
+C:\Users\Dagai\Desktop\IGME-201\SquashTheBugs_PhillipDaGama\bin\Debug\SquashTheBugs_PhillipDaGama.exe
+C:\Users\Dagai\Desktop\IGME-201\SquashTheBugs_PhillipDaGama\bin\Debug\SquashTheBugs_PhillipDaGama.pdb
+C:\Users\Dagai\Desktop\IGME-201\SquashTheBugs_PhillipDaGama\obj\Debug\SquashTheBugs_PhillipDaGama.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\IGME-201\SquashTheBugs_PhillipDaGama\obj\Debug\SquashTheBugs_PhillipDaGama.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\IGME-201\SquashTheBugs_PhillipDaGama\obj\Debug\SquashTheBugs_PhillipDaGama.exe
+C:\Users\Dagai\Desktop\IGME-201\SquashTheBugs_PhillipDaGama\obj\Debug\SquashTheBugs_PhillipDaGama.pdb
