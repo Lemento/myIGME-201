@@ -1,0 +1,7 @@
+C:\Users\Dagai\Desktop\IGME-201\PE3- 5\obj\Debug\PE3- 5.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\IGME-201\PE3- 5\obj\Debug\PE3- 5.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\IGME-201\PE3- 5\bin\Debug\PE3- 5.exe.config
+C:\Users\Dagai\Desktop\IGME-201\PE3- 5\bin\Debug\PE3- 5.exe
+C:\Users\Dagai\Desktop\IGME-201\PE3- 5\bin\Debug\PE3- 5.pdb
+C:\Users\Dagai\Desktop\IGME-201\PE3- 5\obj\Debug\PE3- 5.exe
+C:\Users\Dagai\Desktop\IGME-201\PE3- 5\obj\Debug\PE3- 5.pdb
