@@ -1,0 +1,7 @@
+C:\Users\Dagai\Desktop\IGME-201\Mandelbrot\bin\Debug\Mandelbrot.exe.config
+C:\Users\Dagai\Desktop\IGME-201\Mandelbrot\bin\Debug\Mandelbrot.exe
+C:\Users\Dagai\Desktop\IGME-201\Mandelbrot\bin\Debug\Mandelbrot.pdb
+C:\Users\Dagai\Desktop\IGME-201\Mandelbrot\obj\Debug\Mandelbrot.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\IGME-201\Mandelbrot\obj\Debug\Mandelbrot.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\IGME-201\Mandelbrot\obj\Debug\Mandelbrot.exe
+C:\Users\Dagai\Desktop\IGME-201\Mandelbrot\obj\Debug\Mandelbrot.pdb
