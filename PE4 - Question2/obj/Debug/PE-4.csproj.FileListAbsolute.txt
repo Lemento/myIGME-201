@@ -1,0 +1,7 @@
+C:\Users\Dagai\Desktop\IGME-201\PE-4\obj\Debug\PE-4.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\IGME-201\PE-4\obj\Debug\PE-4.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\IGME-201\PE-4\bin\Debug\PE-4.exe.config
+C:\Users\Dagai\Desktop\IGME-201\PE-4\bin\Debug\PE-4.exe
+C:\Users\Dagai\Desktop\IGME-201\PE-4\bin\Debug\PE-4.pdb
+C:\Users\Dagai\Desktop\IGME-201\PE-4\obj\Debug\PE-4.exe
+C:\Users\Dagai\Desktop\IGME-201\PE-4\obj\Debug\PE-4.pdb
