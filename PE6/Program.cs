@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace PE6
 {
+    // Declare program that will hold the main method the program will call on
     class Program
     {
+        // Declare method that will contain all the code that the program will run
         static void Main(string[] args)
         {
             // Create random instance and declare a new variable and 
