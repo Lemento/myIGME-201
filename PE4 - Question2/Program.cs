@@ -7,8 +7,16 @@ using System.Threading.Tasks;
 namespace PE_4
 {
     class Program
+        /// Class Program
+        /// Author Phillip Da Gama Paes
+        /// Purpose: Take two values and output which one is higher than 10
+        /// Restrictions: Will return error if given a non 32-bit integer
+        /// Will repeat if neither value given is higher or lower than 10
     {
         static void Main(string[] args)
+            /// Method: Main
+            /// Purpose: Return which value is greater than the other
+            /// Restrictions: None
         {
             // declare bool exit variable for while-loop called done
             bool done = false;
@@ -22,9 +30,9 @@ namespace PE_4
 
                 // Ask user to input values into both variables that are then converted into integers
                 Console.WriteLine("Please input first value");
-                var1 = Convert.ToInt16(Console.ReadLine());
+                var1 = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Please input second value");
-                var2 = Convert.ToInt16(Console.ReadLine());
+                var2 = Convert.ToInt32(Console.ReadLine());
 
                 // After reading user events, first check if user succeeded 
                 // on giving one value greater than ten, and one value less than ten

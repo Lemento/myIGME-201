@@ -6,11 +6,20 @@ using System.Threading.Tasks;
 
 namespace PE6
 {
-    // Declare program that will hold the main method the program will call on
     class Program
+        /// Class Program
+        /// Author: Phillip Da Gama Paes
+        /// Purpose: A random number is generated and must be guessed
+        /// Restrictions: Any non-integer typed in will prompt the user to try again with no penalty
+        /// Game also leaves tips on how close the last guess was to the answer by providing
+        /// the whereabouts to the answer was the guess distant, whether the guess was higher or
+        /// lower than the answer, as well as if a guessed digit matched, 
+        /// but not which one.
     {
-        // Declare method that will contain all the code that the program will run
         static void Main(string[] args)
+            /// Method: Main
+            /// Purpose: Generates a random number and gives the user 8 tries to guess its value
+            /// Restrictions: None
         {
             // Create random instance and declare a new variable and 
             // set it equal to a random number between 0 and 100
