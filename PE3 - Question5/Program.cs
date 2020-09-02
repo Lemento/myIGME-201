@@ -7,8 +7,15 @@ using System.Threading.Tasks;
 namespace PE3__5
 {
     class Program
+        /// Class Program
+        /// Author: Phillip Da Gama Paes
+        /// Restrictions: Error if values entered are letters, unicode characters, double/float
+        /// or anything thats not an integer
     {
         static void Main(string[] args)
+            /// Method: Multiply numbers
+            /// Purpose: Takes four values and returns their combined product
+            /// Restrictions: Can't take any string that can't be converted into a 32-bit integer
         {
             // declare variables for user input and their product
             int var1, var2, var3, var4;
