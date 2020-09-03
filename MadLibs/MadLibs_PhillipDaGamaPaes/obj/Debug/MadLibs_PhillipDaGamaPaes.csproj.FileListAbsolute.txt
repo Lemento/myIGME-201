@@ -1,0 +1,7 @@
+C:\Users\Dagai\Desktop\IGME-201\MadLibs\MadLibs_PhillipDaGamaPaes\bin\Debug\MadLibs_PhillipDaGamaPaes.exe.config
+C:\Users\Dagai\Desktop\IGME-201\MadLibs\MadLibs_PhillipDaGamaPaes\bin\Debug\MadLibs_PhillipDaGamaPaes.exe
+C:\Users\Dagai\Desktop\IGME-201\MadLibs\MadLibs_PhillipDaGamaPaes\bin\Debug\MadLibs_PhillipDaGamaPaes.pdb
+C:\Users\Dagai\Desktop\IGME-201\MadLibs\MadLibs_PhillipDaGamaPaes\obj\Debug\MadLibs_PhillipDaGamaPaes.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\IGME-201\MadLibs\MadLibs_PhillipDaGamaPaes\obj\Debug\MadLibs_PhillipDaGamaPaes.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\IGME-201\MadLibs\MadLibs_PhillipDaGamaPaes\obj\Debug\MadLibs_PhillipDaGamaPaes.exe
+C:\Users\Dagai\Desktop\IGME-201\MadLibs\MadLibs_PhillipDaGamaPaes\obj\Debug\MadLibs_PhillipDaGamaPaes.pdb
