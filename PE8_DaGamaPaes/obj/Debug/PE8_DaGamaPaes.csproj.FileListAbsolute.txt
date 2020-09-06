@@ -1,0 +1,7 @@
+C:\Users\Dagai\Source\Repos\PE8_DaGamaPaes\obj\Debug\PE8_DaGamaPaes.csprojAssemblyReference.cache
+C:\Users\Dagai\Source\Repos\PE8_DaGamaPaes\obj\Debug\PE8_DaGamaPaes.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Source\Repos\PE8_DaGamaPaes\bin\Debug\PE8_DaGamaPaes.exe.config
+C:\Users\Dagai\Source\Repos\PE8_DaGamaPaes\bin\Debug\PE8_DaGamaPaes.exe
+C:\Users\Dagai\Source\Repos\PE8_DaGamaPaes\bin\Debug\PE8_DaGamaPaes.pdb
+C:\Users\Dagai\Source\Repos\PE8_DaGamaPaes\obj\Debug\PE8_DaGamaPaes.exe
+C:\Users\Dagai\Source\Repos\PE8_DaGamaPaes\obj\Debug\PE8_DaGamaPaes.pdb
