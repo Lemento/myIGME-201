@@ -8,6 +8,10 @@ using System.Threading.Tasks;
 namespace MathQuizTimer_DaGamaPaes
 {
     class Program
+    ///  Class: Program
+    ///  Author: Phillip Da Gama Paes
+    ///  Purpose: Math quiz with added timer function
+    ///  Restrictions: None
     {
         private static Timer time;
         static void Elapsed_time(Object sender, ElapsedEventArgs e)
@@ -16,6 +20,9 @@ namespace MathQuizTimer_DaGamaPaes
             Console.WriteLine("It has been more than 5 seconds. Time's up.");
         }
         static void Main()
+            /// Method: Main
+            /// Purpose: Math Quiz
+            /// Restrictions: none
         {
             // store user name
             string myName = "";
