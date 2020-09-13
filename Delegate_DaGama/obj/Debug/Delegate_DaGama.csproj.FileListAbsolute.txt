@@ -1,0 +1,7 @@
+C:\Users\Dagai\Desktop\IGME-201\Delegate_DaGama\bin\Debug\Delegate_DaGama.exe.config
+C:\Users\Dagai\Desktop\IGME-201\Delegate_DaGama\bin\Debug\Delegate_DaGama.exe
+C:\Users\Dagai\Desktop\IGME-201\Delegate_DaGama\bin\Debug\Delegate_DaGama.pdb
+C:\Users\Dagai\Desktop\IGME-201\Delegate_DaGama\obj\Debug\Delegate_DaGama.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\IGME-201\Delegate_DaGama\obj\Debug\Delegate_DaGama.exe
+C:\Users\Dagai\Desktop\IGME-201\Delegate_DaGama\obj\Debug\Delegate_DaGama.pdb
+C:\Users\Dagai\Desktop\IGME-201\Delegate_DaGama\obj\Debug\Delegate_DaGama.csprojAssemblyReference.cache
