@@ -1,0 +1,7 @@
+C:\Users\Dagai\Desktop\IGME-201\MathQuizTimer_DaGama\bin\Debug\MathQuizTimer_DaGama.exe.config
+C:\Users\Dagai\Desktop\IGME-201\MathQuizTimer_DaGama\bin\Debug\MathQuizTimer_DaGama.exe
+C:\Users\Dagai\Desktop\IGME-201\MathQuizTimer_DaGama\bin\Debug\MathQuizTimer_DaGama.pdb
+C:\Users\Dagai\Desktop\IGME-201\MathQuizTimer_DaGama\obj\Debug\MathQuizTimer_DaGama.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\IGME-201\MathQuizTimer_DaGama\obj\Debug\MathQuizTimer_DaGama.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\IGME-201\MathQuizTimer_DaGama\obj\Debug\MathQuizTimer_DaGama.exe
+C:\Users\Dagai\Desktop\IGME-201\MathQuizTimer_DaGama\obj\Debug\MathQuizTimer_DaGama.pdb
