@@ -1,0 +1,7 @@
+C:\Users\Dagai\Desktop\201\PE12\PE12\bin\Debug\PE12.exe.config
+C:\Users\Dagai\Desktop\201\PE12\PE12\bin\Debug\PE12.exe
+C:\Users\Dagai\Desktop\201\PE12\PE12\bin\Debug\PE12.pdb
+C:\Users\Dagai\Desktop\201\PE12\PE12\obj\Debug\PE12.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\201\PE12\PE12\obj\Debug\PE12.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\201\PE12\PE12\obj\Debug\PE12.exe
+C:\Users\Dagai\Desktop\201\PE12\PE12\obj\Debug\PE12.pdb
