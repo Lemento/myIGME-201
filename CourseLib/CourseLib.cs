@@ -1,7 +1,8 @@
 ﻿using System;
+using System.CodeDom;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
-using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,13 +11,27 @@ namespace CourseLib
     public class Schedule
     {
         public DateTime startTime;
-        public DateTime EndTime;
+        public DateTime endTime;
         public List<DayOfWeek> daysOfWeek;
     }
 
+    public class Course : Schedule
+    {
+        public string courseCode;
+        public string description;
+        public string teacherEmail;
+        public Schedule schedule;
+
+        public Course(string description, string courseCode)
+        {
+
+        }
+
+    }
     public class Courses
     {
-        public SortedList<string, Course> sortedList;
+        public SortedList<string, Course> sortedList = new SortedList<string, Course>();
+
         public void Remove(string courseCode)
         {
             if (courseCode != null)
@@ -24,6 +39,37 @@ namespace CourseLib
                 sortedList.Remove(courseCode);
             }
         }
+
+        public Course this[string courseCode]
+        {
+            get
+            {
+                Course returnVal;
+                try
+                {
+                    returnVal = (Course)sortedList[courseCode];
+                }
+                catch
+                {
+                    returnVal = null;
+                }
+
+                return (returnVal);
+            }
+
+            set
+            {
+                try
+                {
+                    sortedList[courseCode] = value;
+                }
+                catch
+                {
+
+                }
+            }
+        }
+
 
         public Courses()
         {
@@ -67,11 +113,4 @@ namespace CourseLib
         }
     }
 
-    public class Course : Schedule
-    {
-        public string courseCode;
-        public string description;
-        public string teacherEmail;
-        public Schedule schedule;
-    }
 }

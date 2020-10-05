@@ -1,0 +1,6 @@
+C:\Users\Dagai\Desktop\201\peoplelib\CourseLib\obj\Debug\CourseLib.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\201\peoplelib\CourseLib\obj\Debug\CourseLib.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\201\peoplelib\CourseLib\bin\Debug\CourseLib.dll
+C:\Users\Dagai\Desktop\201\peoplelib\CourseLib\bin\Debug\CourseLib.pdb
+C:\Users\Dagai\Desktop\201\peoplelib\CourseLib\obj\Debug\CourseLib.dll
+C:\Users\Dagai\Desktop\201\peoplelib\CourseLib\obj\Debug\CourseLib.pdb
