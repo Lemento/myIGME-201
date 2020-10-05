@@ -1,0 +1,12 @@
+C:\Users\Dagai\Desktop\201\peoplelib\PeopleApp\bin\Debug\PeopleApp.exe.config
+C:\Users\Dagai\Desktop\201\peoplelib\PeopleApp\bin\Debug\PeopleApp.exe
+C:\Users\Dagai\Desktop\201\peoplelib\PeopleApp\bin\Debug\PeopleApp.pdb
+C:\Users\Dagai\Desktop\201\peoplelib\PeopleApp\bin\Debug\CourseLib.dll
+C:\Users\Dagai\Desktop\201\peoplelib\PeopleApp\bin\Debug\PeopleLib.dll
+C:\Users\Dagai\Desktop\201\peoplelib\PeopleApp\bin\Debug\CourseLib.pdb
+C:\Users\Dagai\Desktop\201\peoplelib\PeopleApp\bin\Debug\PeopleLib.pdb
+C:\Users\Dagai\Desktop\201\peoplelib\PeopleApp\obj\Debug\PeopleApp.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\201\peoplelib\PeopleApp\obj\Debug\PeopleApp.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\201\peoplelib\PeopleApp\obj\Debug\PeopleApp.csproj.CopyComplete
+C:\Users\Dagai\Desktop\201\peoplelib\PeopleApp\obj\Debug\PeopleApp.exe
+C:\Users\Dagai\Desktop\201\peoplelib\PeopleApp\obj\Debug\PeopleApp.pdb
