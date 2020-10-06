@@ -1,0 +1,7 @@
+C:\Users\Dagai\Desktop\201\PetApp\PetApp\obj\Debug\PetApp.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\201\PetApp\PetApp\obj\Debug\PetApp.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\201\PetApp\PetApp\bin\Debug\PetApp.exe.config
+C:\Users\Dagai\Desktop\201\PetApp\PetApp\bin\Debug\PetApp.exe
+C:\Users\Dagai\Desktop\201\PetApp\PetApp\bin\Debug\PetApp.pdb
+C:\Users\Dagai\Desktop\201\PetApp\PetApp\obj\Debug\PetApp.exe
+C:\Users\Dagai\Desktop\201\PetApp\PetApp\obj\Debug\PetApp.pdb
