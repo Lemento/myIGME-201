@@ -24,7 +24,8 @@ namespace CourseLib
 
         public Course(string description, string courseCode)
         {
-
+            this.description = description;
+            this.courseCode = courseCode;
         }
 
     }

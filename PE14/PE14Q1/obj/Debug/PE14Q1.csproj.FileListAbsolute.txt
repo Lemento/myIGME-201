@@ -1,0 +1,7 @@
+C:\Users\Dagai\Desktop\201\PE14\PE14Q1\bin\Debug\PE14Q1.exe.config
+C:\Users\Dagai\Desktop\201\PE14\PE14Q1\bin\Debug\PE14Q1.exe
+C:\Users\Dagai\Desktop\201\PE14\PE14Q1\bin\Debug\PE14Q1.pdb
+C:\Users\Dagai\Desktop\201\PE14\PE14Q1\obj\Debug\PE14Q1.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\201\PE14\PE14Q1\obj\Debug\PE14Q1.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\201\PE14\PE14Q1\obj\Debug\PE14Q1.exe
+C:\Users\Dagai\Desktop\201\PE14\PE14Q1\obj\Debug\PE14Q1.pdb
