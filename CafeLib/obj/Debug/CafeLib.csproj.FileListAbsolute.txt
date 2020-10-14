@@ -1,0 +1,6 @@
+C:\Users\Dagai\Desktop\201\CafeLib\obj\Debug\CafeLib.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\201\CafeLib\obj\Debug\CafeLib.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\201\CafeLib\bin\Debug\CafeLib.dll
+C:\Users\Dagai\Desktop\201\CafeLib\bin\Debug\CafeLib.pdb
+C:\Users\Dagai\Desktop\201\CafeLib\obj\Debug\CafeLib.dll
+C:\Users\Dagai\Desktop\201\CafeLib\obj\Debug\CafeLib.pdb
