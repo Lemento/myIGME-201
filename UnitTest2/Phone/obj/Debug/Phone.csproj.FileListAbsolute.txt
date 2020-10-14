@@ -1,0 +1,7 @@
+C:\Users\Dagai\Desktop\201\Phone\bin\Debug\Phone.exe.config
+C:\Users\Dagai\Desktop\201\Phone\bin\Debug\Phone.exe
+C:\Users\Dagai\Desktop\201\Phone\bin\Debug\Phone.pdb
+C:\Users\Dagai\Desktop\201\Phone\obj\Debug\Phone.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\201\Phone\obj\Debug\Phone.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\201\Phone\obj\Debug\Phone.exe
+C:\Users\Dagai\Desktop\201\Phone\obj\Debug\Phone.pdb

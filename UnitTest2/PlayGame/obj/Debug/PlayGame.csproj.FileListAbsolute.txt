@@ -1,0 +1,7 @@
+C:\Users\Dagai\Desktop\201\PlayGame\bin\Debug\PlayGame.exe.config
+C:\Users\Dagai\Desktop\201\PlayGame\bin\Debug\PlayGame.exe
+C:\Users\Dagai\Desktop\201\PlayGame\bin\Debug\PlayGame.pdb
+C:\Users\Dagai\Desktop\201\PlayGame\obj\Debug\PlayGame.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\201\PlayGame\obj\Debug\PlayGame.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\201\PlayGame\obj\Debug\PlayGame.exe
+C:\Users\Dagai\Desktop\201\PlayGame\obj\Debug\PlayGame.pdb

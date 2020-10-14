@@ -1,0 +1,7 @@
+C:\Users\Dagai\Desktop\201\StructToClass\bin\Debug\StructToClass.exe.config
+C:\Users\Dagai\Desktop\201\StructToClass\bin\Debug\StructToClass.exe
+C:\Users\Dagai\Desktop\201\StructToClass\bin\Debug\StructToClass.pdb
+C:\Users\Dagai\Desktop\201\StructToClass\obj\Debug\StructToClass.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\201\StructToClass\obj\Debug\StructToClass.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\201\StructToClass\obj\Debug\StructToClass.exe
+C:\Users\Dagai\Desktop\201\StructToClass\obj\Debug\StructToClass.pdb
