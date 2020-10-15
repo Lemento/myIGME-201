@@ -1,0 +1,7 @@
+C:\Users\Dagai\Desktop\201\GameOfLife\obj\Debug\GameOfLife.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\201\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\201\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\Users\Dagai\Desktop\201\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\Dagai\Desktop\201\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\Dagai\Desktop\201\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Users\Dagai\Desktop\201\GameOfLife\obj\Debug\GameOfLife.pdb
