@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A644F727-A2A0-4B1C-B5C0-BF21F6488F38}</ProjectGuid>
+    <ProjectGuid>{B60E4712-192B-4308-B88D-EDD1F004896B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>MyEditor</RootNamespace>
     <AssemblyName>MyEditor</AssemblyName>

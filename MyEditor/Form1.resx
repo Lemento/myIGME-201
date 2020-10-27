@@ -117,4 +117,59 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="toolStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>132, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="boldToolStripButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADxSURBVDhPpVO5DcMwDPQIGSEjZAb1HsBTKLWrVG4D9wYy
+        QgoNkFq9+ngDNX5KRQdTlsXED5ADrjDJO4mklQUMw+C22Pf92/NhrT2RJAWKhBCrLIrCNU0DM9t13YVk
+        EXsGgXVd4zYvkkVwA5wGVlWVxEHUkiyCG+A7EKfyHMkitgzKspzjmIWPWZJFcIPQgpRyjuV57owxmMGN
+        ZBHc4BdpC+6vLeBGaOHrf+AG+Aa11skMQKUU2riSdMKaQeAyh9X62JOkE3jRUty2bZLDWn38TtIJ3CBs
+        AcWY/jJ3qIU1Hh4i56HHtEOL5zyO45kkHln2AX4U/r5+v/rFAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="italicsToolStripButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADsSURBVDhPlZMhDoNAEEU5Qo/QozR4DoBD4EGjqrAET1LJ
+        AfCg8Xi4wSpA0n1kdoNpJ7xk1Gf//P3bBv/Ytq2yc1xn3/eXyDrrug5Zlh1hGJ6DgTHmIbIOB9zhNE0P
+        aziLpEPUaZq8QVmWGHxE1rEf513XeYO2bTHIRdZhG1udAWnuFjhzb2dAHyLp0PS1QF7CGg4i6xB1HEdv
+        UNc1CSqRdey2d9M03qDve+6fiKxD3KIovMGyLBg8RdaxcU0cx+fhKIqIb0TSYRMb3XaS3C0w4c7OgC7o
+        RGQd2r4WyGvwKiLrEJffwHV+/wOD4AuQrQaRF6S63QAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="fontToolStripButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAD4SURBVDhPtZItDoNAEIV7hB6J4DkAHr/VqKq1DZ6EQ+Cp
+        xuOLR2CAldN9mx2YELpgOslLYOdn33xw+1tM0/RZloWgcRzv/vhaGGOivu8pjmOq65rmeX741LWwDVVR
+        FG5AlmUENz51HrAL20mSuAFQ13UEV74kHLAL29wMaa2xRuVLwgG7SilK03QdADfDMJzDlPBgW65xCSbD
+        AzhwYJDQKUwJD7fhmd2wgjCP4O0VhMnwUITbWXLoT5h7eGzz6J/w671cI8JaeqI5z/P1Bnv25hzeAZAH
+        4PM2TePcuYtQVJblWoA15ACZk2rbdhvA+7LkgH1OyhgTfQF+8JqLte6jBAAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <metadata name="openFileDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>237, 17</value>
+  </metadata>
+  <metadata name="saveFileDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>370, 17</value>
+  </metadata>
+  <data name="underlineToolStripButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAC3SURBVDhP7ZC9DcMgEIUZJSNkBnq2oHdPlUGQMgSDpGEA
+        eoo0/JSERw6wpUgkUtLlSU863/vuzjbrSimVvak9tMobwDlvfgWs8v+Cqq8ucM6VnPOJIobae79ccBdC
+        NMAYU2KMF4oYavSQgQFL0VSFrlrrAVlrAd5g1H05GLA0NoXXxGYpZQNhpVTZtm08IwOz/7yDQghnALjS
+        L8Ko0UMGhvCjath+zrumsSk0+8WVf7fgEz+nGHsAFdjJor2UtRAAAAAASUVORK5CYII=
+</value>
+  </data>
+  <metadata name="colorDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>499, 17</value>
+  </metadata>
 </root>
