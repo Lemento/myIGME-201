@@ -1,0 +1,16 @@
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\bin\Debug\CourseApp.exe.config
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\bin\Debug\CourseApp.exe
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\bin\Debug\CourseApp.pdb
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\bin\Debug\CourseLib.dll
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\bin\Debug\PeopleAppGlobals.dll
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\bin\Debug\PeopleLib.dll
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\bin\Debug\CourseLib.pdb
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\bin\Debug\PeopleAppGlobals.pdb
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\bin\Debug\PeopleLib.pdb
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\obj\Debug\CourseApp.csprojAssemblyReference.cache
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\obj\Debug\CourseApp.CourseListForm.resources
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\obj\Debug\CourseApp.Properties.Resources.resources
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\obj\Debug\CourseApp.csproj.GenerateResource.cache
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\obj\Debug\CourseApp.csproj.CopyComplete
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\obj\Debug\CourseApp.exe
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\obj\Debug\CourseApp.pdb
