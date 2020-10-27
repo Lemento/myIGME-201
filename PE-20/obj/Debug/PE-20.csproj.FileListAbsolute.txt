@@ -1,0 +1,10 @@
+C:\Users\Dagai\Desktop\201\PE-20\bin\Debug\PE-20.exe.config
+C:\Users\Dagai\Desktop\201\PE-20\bin\Debug\PE-20.exe
+C:\Users\Dagai\Desktop\201\PE-20\bin\Debug\PE-20.pdb
+C:\Users\Dagai\Desktop\201\PE-20\obj\Debug\PE-20.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\201\PE-20\obj\Debug\PE_20.Form1.resources
+C:\Users\Dagai\Desktop\201\PE-20\obj\Debug\PE_20.Properties.Resources.resources
+C:\Users\Dagai\Desktop\201\PE-20\obj\Debug\PE-20.csproj.GenerateResource.cache
+C:\Users\Dagai\Desktop\201\PE-20\obj\Debug\PE-20.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\201\PE-20\obj\Debug\PE-20.exe
+C:\Users\Dagai\Desktop\201\PE-20\obj\Debug\PE-20.pdb
