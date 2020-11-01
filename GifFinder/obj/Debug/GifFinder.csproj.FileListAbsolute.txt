@@ -1,0 +1,12 @@
+C:\Users\Dagai\Desktop\GifFinder\bin\Debug\GifFinder.exe.config
+C:\Users\Dagai\Desktop\GifFinder\bin\Debug\GifFinder.exe
+C:\Users\Dagai\Desktop\GifFinder\bin\Debug\GifFinder.pdb
+C:\Users\Dagai\Desktop\GifFinder\obj\Debug\GifFinder.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\GifFinder\obj\Debug\GifFinder.GifFinder.resources
+C:\Users\Dagai\Desktop\GifFinder\obj\Debug\GifFinder.SearchForm.resources
+C:\Users\Dagai\Desktop\GifFinder\obj\Debug\GifFinder.ImageForm.resources
+C:\Users\Dagai\Desktop\GifFinder\obj\Debug\GifFinder.Properties.Resources.resources
+C:\Users\Dagai\Desktop\GifFinder\obj\Debug\GifFinder.csproj.GenerateResource.cache
+C:\Users\Dagai\Desktop\GifFinder\obj\Debug\GifFinder.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\GifFinder\obj\Debug\GifFinder.exe
+C:\Users\Dagai\Desktop\GifFinder\obj\Debug\GifFinder.pdb
