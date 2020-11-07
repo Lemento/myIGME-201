@@ -1,0 +1,11 @@
+C:\Users\Dagai\Desktop\201\Dyscord\obj\Debug\Dyscord.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\201\Dyscord\obj\Debug\Dyscord.SettingsForm.resources
+C:\Users\Dagai\Desktop\201\Dyscord\obj\Debug\Dyscord.DyscordForm.resources
+C:\Users\Dagai\Desktop\201\Dyscord\obj\Debug\Dyscord.Properties.Resources.resources
+C:\Users\Dagai\Desktop\201\Dyscord\obj\Debug\Dyscord.csproj.GenerateResource.cache
+C:\Users\Dagai\Desktop\201\Dyscord\obj\Debug\Dyscord.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\201\Dyscord\bin\Debug\Dyscord.exe.config
+C:\Users\Dagai\Desktop\201\Dyscord\bin\Debug\Dyscord.exe
+C:\Users\Dagai\Desktop\201\Dyscord\bin\Debug\Dyscord.pdb
+C:\Users\Dagai\Desktop\201\Dyscord\obj\Debug\Dyscord.exe
+C:\Users\Dagai\Desktop\201\Dyscord\obj\Debug\Dyscord.pdb
