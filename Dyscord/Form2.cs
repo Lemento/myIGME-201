@@ -1,22 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Net.Sockets;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-
+using System.IO;
 using System.Net;
 using System.Net.Sockets;
 using System.Threading;
-using System.IO;
+using System.Windows.Forms;
 
 namespace Dyscord
 {
     public delegate void UpdateConversationDelegate(string text);
+
     public partial class DyscordForm : Form
     {
         string targetUser = "";
@@ -41,9 +33,9 @@ namespace Dyscord
             thread.Start();
 
             IPHostEntry ipHost = Dns.GetHostEntry(Dns.GetHostName());
-            foreach( IPAddress iPAddress in ipHost.AddressList)
+            foreach (IPAddress iPAddress in ipHost.AddressList)
             {
-                if( iPAddress.AddressFamily == AddressFamily.InterNetwork )
+                if (iPAddress.AddressFamily == AddressFamily.InterNetwork)
                 {
                     this.myIp = iPAddress.ToString();
                     break;
@@ -59,7 +51,7 @@ namespace Dyscord
 
         private void LoginButton__Click(object sender, EventArgs e)
         {
-            if( userTextBox.TextLength > 0 )
+            if (userTextBox.TextLength > 0)
             {
                 webBrowser1.Navigate("http://people.rit.edu/dxsigm/php/login.php?login=" + userTextBox.Text + "&ip=" + myIp + ":" + myPort);
                 webBrowser1.Visible = false;
@@ -67,10 +59,9 @@ namespace Dyscord
                 loginButton.Enabled = false;
             }
         }
-
         private void UsersButton__Click(object sender, EventArgs e)
         {
-            webBrowser1.Navigate("http://people.rit.edu/dxsigm/php/login.php?logins");
+            webBrowser1.Navigate("http://people.rit.edu/dxsigm/php/login.php?login=");
             webBrowser1.Visible = true;
             convRichTextBox.SendToBack();
         }
@@ -79,7 +70,7 @@ namespace Dyscord
         {
             HtmlElementCollection htmlElementCollection;
             htmlElementCollection = webBrowser1.Document.GetElementsByTagName("button");
-            foreach( HtmlElement htmlElement in htmlElementCollection)
+            foreach (HtmlElement htmlElement in htmlElementCollection)
             {
                 htmlElement.Click += new HtmlElementEventHandler(HtmlElement__Click);
             }
@@ -99,14 +90,13 @@ namespace Dyscord
 
             this.targetUser = htmlElement.GetAttribute("name");
             this.groupBox1.Text = "Conversing with " + targetUser;
-
             webBrowser1.Visible = false;
             webBrowser1.SendToBack();
         }
 
         private void SendButton__Click(object sender, EventArgs e)
         {
-            if( targetIp.Length > 0 )
+            if (targetIp.Length > 0)
             {
                 IPAddress iPAddress = IPAddress.Parse(this.targetIp);
                 IPEndPoint remoteEndPoint = new IPEndPoint(iPAddress, this.targetPort);
@@ -126,14 +116,17 @@ namespace Dyscord
                 this.convRichTextBox.Text += "> " + this.targetUser + ": " + msgRichTextBox.Text + "\n";
 
                 msgRichTextBox.Clear();
+
             }
         }
+
         private void ExitButton__Click(object sender, EventArgs e)
         {
             listener.Close();
             thread.Abort();
 
             Application.Exit();
+
         }
 
         public void UpdateConversation(string text)
@@ -145,14 +138,14 @@ namespace Dyscord
         {
             UpdateConversationDelegate updateConversationDelegate;
             updateConversationDelegate = new UpdateConversationDelegate(UpdateConversation);
-            IPEndPoint serverEndpoint = new IPEndPoint(IPAddress.Any, this.myPort);
+            IPEndPoint serverEndPoint = new IPEndPoint(IPAddress.Any, this.myPort);
 
             this.listener = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
 
-            listener.Bind(serverEndpoint);
+            listener.Bind(serverEndPoint);
             listener.Listen(300);
 
-            while(true)
+            while (true)
             {
                 Socket client = listener.Accept();
                 Stream netStream = new NetworkStream(client);

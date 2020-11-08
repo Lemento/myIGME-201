@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0717D480-727F-4510-B90E-E00C780A4BF4}</ProjectGuid>
+    <ProjectGuid>{5975BD94-AB4D-4FDD-96D2-44D4616AEE4A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Dyscord</RootNamespace>
     <AssemblyName>Dyscord</AssemblyName>
