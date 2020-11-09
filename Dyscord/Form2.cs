@@ -46,30 +46,32 @@ namespace Dyscord
             this.usersButton.Click += new EventHandler(UsersButton__Click);
             this.sendButton.Click += new EventHandler(SendButton__Click);
             this.exitButton.Click += new EventHandler(ExitButton__Click);
-            this.webBrowser1.DocumentCompleted += new WebBrowserDocumentCompletedEventHandler(WebBrowser1__DocumentCompleted);
+            this.webBrowser2.DocumentCompleted += new WebBrowserDocumentCompletedEventHandler(WebBrowser2__DocumentCompleted);
+
+            this.FormClosing += new FormClosingEventHandler(Form__FormClosing);
         }
 
         private void LoginButton__Click(object sender, EventArgs e)
         {
             if (userTextBox.TextLength > 0)
             {
-                webBrowser1.Navigate("http://people.rit.edu/dxsigm/php/login.php?login=" + userTextBox.Text + "&ip=" + myIp + ":" + myPort);
-                webBrowser1.Visible = false;
+                webBrowser2.Navigate("http://people.rit.edu/dxsigm/php/login.php?login=" + userTextBox.Text + "&ip=" + myIp + ":" + myPort);
+                webBrowser2.Visible = false;
                 userTextBox.Enabled = false;
                 loginButton.Enabled = false;
             }
         }
         private void UsersButton__Click(object sender, EventArgs e)
         {
-            webBrowser1.Navigate("http://people.rit.edu/dxsigm/php/login.php?login=");
-            webBrowser1.Visible = true;
+            webBrowser2.Navigate("http://people.rit.edu/dxsigm/php/login.php?login=");
+            webBrowser2.Visible = true;
             convRichTextBox.SendToBack();
         }
 
-        private void WebBrowser1__DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
+        private void WebBrowser2__DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
         {
             HtmlElementCollection htmlElementCollection;
-            htmlElementCollection = webBrowser1.Document.GetElementsByTagName("button");
+            htmlElementCollection = webBrowser2.Document.GetElementsByTagName("button");
             foreach (HtmlElement htmlElement in htmlElementCollection)
             {
                 htmlElement.Click += new HtmlElementEventHandler(HtmlElement__Click);
@@ -90,8 +92,8 @@ namespace Dyscord
 
             this.targetUser = htmlElement.GetAttribute("name");
             this.groupBox1.Text = "Conversing with " + targetUser;
-            webBrowser1.Visible = false;
-            webBrowser1.SendToBack();
+            webBrowser2.Visible = false;
+            webBrowser2.SendToBack();
         }
 
         private void SendButton__Click(object sender, EventArgs e)
@@ -126,7 +128,12 @@ namespace Dyscord
             thread.Abort();
 
             Application.Exit();
+        }
 
+        private void Form__FormClosing(object sender, FormClosingEventArgs e)
+        {
+            listener.Close();
+            thread.Abort();
         }
 
         public void UpdateConversation(string text)
