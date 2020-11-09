@@ -1,0 +1,10 @@
+C:\Users\Dagai\Desktop\201\TriviaApp\bin\Debug\TriviaApp.exe.config
+C:\Users\Dagai\Desktop\201\TriviaApp\bin\Debug\TriviaApp.exe
+C:\Users\Dagai\Desktop\201\TriviaApp\bin\Debug\TriviaApp.pdb
+C:\Users\Dagai\Desktop\201\TriviaApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dagai\Desktop\201\TriviaApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dagai\Desktop\201\TriviaApp\obj\Debug\TriviaApp.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\201\TriviaApp\obj\Debug\TriviaApp.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\201\TriviaApp\obj\Debug\TriviaApp.csproj.CopyComplete
+C:\Users\Dagai\Desktop\201\TriviaApp\obj\Debug\TriviaApp.exe
+C:\Users\Dagai\Desktop\201\TriviaApp\obj\Debug\TriviaApp.pdb
