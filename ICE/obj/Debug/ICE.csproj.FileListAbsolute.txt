@@ -1,0 +1,11 @@
+C:\Users\Dagai\Desktop\201\ICE\bin\Debug\ICE.exe.config
+C:\Users\Dagai\Desktop\201\ICE\bin\Debug\ICE.exe
+C:\Users\Dagai\Desktop\201\ICE\bin\Debug\ICE.pdb
+C:\Users\Dagai\Desktop\201\ICE\obj\Debug\ICE.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\201\ICE\obj\Debug\ICE.Form1.resources
+C:\Users\Dagai\Desktop\201\ICE\obj\Debug\ICE.GameForm.resources
+C:\Users\Dagai\Desktop\201\ICE\obj\Debug\ICE.Properties.Resources.resources
+C:\Users\Dagai\Desktop\201\ICE\obj\Debug\ICE.csproj.GenerateResource.cache
+C:\Users\Dagai\Desktop\201\ICE\obj\Debug\ICE.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\201\ICE\obj\Debug\ICE.exe
+C:\Users\Dagai\Desktop\201\ICE\obj\Debug\ICE.pdb
