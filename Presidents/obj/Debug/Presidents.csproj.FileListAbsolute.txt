@@ -1,0 +1,10 @@
+C:\Users\Dagai\Desktop\201\Presidents\bin\Debug\Presidents.exe.config
+C:\Users\Dagai\Desktop\201\Presidents\bin\Debug\Presidents.exe
+C:\Users\Dagai\Desktop\201\Presidents\bin\Debug\Presidents.pdb
+C:\Users\Dagai\Desktop\201\Presidents\obj\Debug\Presidents.csprojAssemblyReference.cache
+C:\Users\Dagai\Desktop\201\Presidents\obj\Debug\Presidents.Form1.resources
+C:\Users\Dagai\Desktop\201\Presidents\obj\Debug\Presidents.Properties.Resources.resources
+C:\Users\Dagai\Desktop\201\Presidents\obj\Debug\Presidents.csproj.GenerateResource.cache
+C:\Users\Dagai\Desktop\201\Presidents\obj\Debug\Presidents.csproj.CoreCompileInputs.cache
+C:\Users\Dagai\Desktop\201\Presidents\obj\Debug\Presidents.exe
+C:\Users\Dagai\Desktop\201\Presidents\obj\Debug\Presidents.pdb
